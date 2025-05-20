@@ -1,0 +1,782 @@
+[
+    {
+        "topic": "Ecologia",
+        "subject": "Biologia",
+        "url": "https://www.youtube.com/watch?v=TsclSi3nNsI",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Genética",
+        "subject": "Biologia",
+        "url": "https://www.youtube.com/watch?v=YjwYJHqxwFY",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Citologia",
+        "subject": "Biologia",
+        "url": "https://www.youtube.com/watch?v=rjH2xzCwNx0",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Fisiologia Humana",
+        "subject": "Biologia",
+        "url": "https://www.youtube.com/watch?v=AotglnRfNOo",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Biotecnologia",
+        "subject": "Biologia",
+        "url": "https://www.youtube.com/watch?v=2VgcZfNdfHQ",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Microbiologia",
+        "subject": "Biologia",
+        "url": "https://www.youtube.com/watch?v=4-xzdCHok2o",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Botânica",
+        "subject": "Biologia",
+        "url": "https://www.youtube.com/watch?v=LZcZTQyU6Sg",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Zoologia",
+        "subject": "Biologia",
+        "url": "https://www.youtube.com/watch?v=aw9sZZBBeIE",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Embriologia",
+        "subject": "Biologia",
+        "url": "https://www.youtube.com/watch?v=_JpwsvyQTRA",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Parasitologia",
+        "subject": "Biologia",
+        "url": "https://www.youtube.com/watch?v=ypyFcOnYpSc",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Ligações Químicas",
+        "subject": "Química",
+        "url": "https://www.youtube.com/watch?v=FDnxddw0P1g",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Estequiometria",
+        "subject": "Química",
+        "url": "https://www.youtube.com/watch?v=SPc84n0ZBGY",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Reações Orgânicas",
+        "subject": "Química",
+        "url": "https://www.youtube.com/watch?v=Oeop4pLKj4A",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Química Ambiental",
+        "subject": "Química",
+        "url": "https://www.youtube.com/watch?v=A8J07TaDiDA",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Tabela Periódica",
+        "subject": "Química",
+        "url": "https://www.youtube.com/watch?v=Vsnq2hJ2UZc",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Termoquímica",
+        "subject": "Química",
+        "url": "https://www.youtube.com/watch?v=esqhgvFljIY",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Ácidos, Bases e pH",
+        "subject": "Química",
+        "url": "https://www.youtube.com/watch?v=_pv7ZCZwDUM",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Eletroquímica",
+        "subject": "Química",
+        "url": "https://www.youtube.com/watch?v=-RU1ywag0Dg",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Cinética Química",
+        "subject": "Química",
+        "url": "https://www.youtube.com/watch?v=9hlcqN8lGx4",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Radioatividade",
+        "subject": "Química",
+        "url": "https://www.youtube.com/watch?v=OKU0tPXUfa0",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Cinemática",
+        "subject": "Física",
+        "url": "https://www.youtube.com/watch?v=kbaN17Z41ZM",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Dinâmica",
+        "subject": "Física",
+        "url": "https://www.youtube.com/watch?v=kbaN17Z41ZM",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Ondulatória",
+        "subject": "Física",
+        "url": "https://www.youtube.com/watch?v=Rmgqv8ETn6o",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Termodinâmica",
+        "subject": "Física",
+        "url": "https://www.youtube.com/watch?v=U_2AJc1mcas",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Eletricidade",
+        "subject": "Física",
+        "url": "https://www.youtube.com/watch?v=Hy-wUMiYNPc",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Óptica",
+        "subject": "Física",
+        "url": "https://www.youtube.com/watch?v=YW1M2c6__0k",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Hidrostática",
+        "subject": "Física",
+        "url": "https://www.youtube.com/watch?v=raBp9dY__WE",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Gravitação",
+        "subject": "Física",
+        "url": "https://www.youtube.com/watch?v=ZMb93bV3oFI",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Acústica",
+        "subject": "Física",
+        "url": "https://www.youtube.com/watch?v=F_C03wD4YfQ",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Física Moderna",
+        "subject": "Física",
+        "url": "https://www.youtube.com/watch?v=aYwkmcyMwKQ",
+        "area": "Ciências da Natureza"
+    },
+    {
+        "topic": "Porcentagem",
+        "subject": "Matemática",
+        "url": "https://www.youtube.com/watch?v=azedx0uou64",
+        "area": "Matemática"
+    },
+    {
+        "topic": "Funções",
+        "subject": "Matemática",
+        "url": "https://www.youtube.com/watch?v=hgKTmAO-k7E",
+        "area": "Matemática"
+    },
+    {
+        "topic": "Estatística",
+        "subject": "Matemática",
+        "url": "https://www.youtube.com/watch?v=mSk2vjGXA90",
+        "area": "Matemática"
+    },
+    {
+        "topic": "Geometria Espacial",
+        "subject": "Matemática",
+        "url": "https://www.youtube.com/watch?v=ufA5Vkc2aDM",
+        "area": "Matemática"
+    },
+    {
+        "topic": "Geometria Plana",
+        "subject": "Matemática",
+        "url": "https://www.youtube.com/watch?v=EzGf1UEnnsY",
+        "area": "Matemática"
+    },
+    {
+        "topic": "Probabilidade",
+        "subject": "Matemática",
+        "url": "https://www.youtube.com/watch?v=iNCkGogNtKI",
+        "area": "Matemática"
+    },
+    {
+        "topic": "Análise Combinatória",
+        "subject": "Matemática",
+        "url": "https://www.youtube.com/watch?v=g1nDzBRiF34",
+        "area": "Matemática"
+    },
+    {
+        "topic": "Logaritmos",
+        "subject": "Matemática",
+        "url": "https://www.youtube.com/watch?v=tR6S4dz6UGA",
+        "area": "Matemática"
+    },
+    {
+        "topic": "Matrizes e Determinantes",
+        "subject": "Matemática",
+        "url": "https://www.youtube.com/watch?v=HNpSOOhtqkA",
+        "area": "Matemática"
+    },
+    {
+        "topic": "Progressões Aritmética e Geométrica",
+        "subject": "Matemática",
+        "url": "https://www.youtube.com/watch?v=zoFC82aPq1A",
+        "area": "Matemática"
+    },
+    {
+        "topic": "Brasil Colônia",
+        "subject": "História",
+        "url": "https://www.youtube.com/watch?v=RX2eB7zf87g",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Brasil Império",
+        "subject": "História",
+        "url": "https://www.youtube.com/watch?v=l-aRBhaHwgE",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "República Velha",
+        "subject": "História",
+        "url": "https://www.youtube.com/watch?v=Vw4HGHDWMjs",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Era Vargas",
+        "subject": "História",
+        "url": "https://www.youtube.com/watch?v=TiJBt5RrA-E",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Ditadura Militar",
+        "subject": "História",
+        "url": "https://www.youtube.com/watch?v=HGrq8Eit31E",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "História Antiga",
+        "subject": "História",
+        "url": "https://www.youtube.com/watch?v=YRu9j0yIwxw",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "História Medieval",
+        "subject": "História",
+        "url": "https://www.youtube.com/watch?v=xYRsIQT-Qmc",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "História Moderna",
+        "subject": "História",
+        "url": "https://www.youtube.com/watch?v=cKPcV8FR-qE",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Revoluções Industriais",
+        "subject": "História",
+        "url": "https://www.youtube.com/watch?v=t6nJNv-pNr8",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Guerras Mundiais",
+        "subject": "História",
+        "url": "https://www.youtube.com/watch?v=0Cy2UIUsbus",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Geopolítica Atual",
+        "subject": "Geografia",
+        "url": "https://www.youtube.com/watch?v=VYfMr7FcDq0",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Climatologia",
+        "subject": "Geografia",
+        "url": "https://www.youtube.com/watch?v=Tl9k3pkuVP4",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Geografia Urbana",
+        "subject": "Geografia",
+        "url": "https://www.youtube.com/watch?v=w7aVAW9enrM",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Geografia Agrária",
+        "subject": "Geografia",
+        "url": "https://www.youtube.com/watch?v=w7InvPgAWCw",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Industrialização",
+        "subject": "Geografia",
+        "url": "https://www.youtube.com/watch?v=Q_pnwbLXwSE",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Globalização",
+        "subject": "Geografia",
+        "url": "https://www.youtube.com/watch?v=Bq9Hx3ExFR8",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Recursos Naturais",
+        "subject": "Geografia",
+        "url": "https://www.youtube.com/watch?v=_LLukJ5WmAE",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Migrações",
+        "subject": "Geografia",
+        "url": "https://www.youtube.com/watch?v=kb4Xxnmc7oY",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Formação do Território Brasileiro",
+        "subject": "Geografia",
+        "url": "https://www.youtube.com/watch?v=vhPMsVqoj1M",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Questões Ambientais",
+        "subject": "Geografia",
+        "url": "https://www.youtube.com/watch?v=F-GgPGvyTek",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Escolas Filosóficas",
+        "subject": "Filosofia",
+        "url": "https://www.youtube.com/watch?v=GAMoKIm5PKY",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Ética e Moral",
+        "subject": "Filosofia",
+        "url": "https://www.youtube.com/watch?v=07pEiRymoLk",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Filosofia Antiga",
+        "subject": "Filosofia",
+        "url": "https://www.youtube.com/watch?v=4VzqshtvrcE",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Filosofia Moderna",
+        "subject": "Filosofia",
+        "url": "https://www.youtube.com/watch?v=dq9NU31PqwU",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Filosofia Contemporânea",
+        "subject": "Filosofia",
+        "url": "https://www.youtube.com/watch?v=r1YjaQn3Wao",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Contrato Social",
+        "subject": "Filosofia",
+        "url": "https://www.youtube.com/watch?v=LKD5LzTWvkc",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Existencialismo",
+        "subject": "Filosofia",
+        "url": "https://www.youtube.com/watch?v=pZMbCmDo3yI",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Filosofia Política",
+        "subject": "Filosofia",
+        "url": "https://www.youtube.com/watch?v=PUUNVm5gkGE",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Filosofia da Ciência",
+        "subject": "Filosofia",
+        "url": "https://www.youtube.com/watch?v=3YUinDn9qnU",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Epistemologia",
+        "subject": "Filosofia",
+        "url": "https://www.youtube.com/watch?v=UYYucWHzCko",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Conceitos Básicos de Sociologia",
+        "subject": "Sociologia",
+        "url": "https://www.youtube.com/watch?v=OZl6mRkEuJ8",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Cultura e Sociedade",
+        "subject": "Sociologia",
+        "url": "https://www.youtube.com/watch?v=cFwHzS1gPvE",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Movimentos Sociais",
+        "subject": "Sociologia",
+        "url": "https://www.youtube.com/watch?v=N6FSOCflYMc",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Cidadania e Direitos Humanos",
+        "subject": "Sociologia",
+        "url": "https://www.youtube.com/watch?v=0V1m1UXR0-4",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Estratificação Social",
+        "subject": "Sociologia",
+        "url": "https://www.youtube.com/watch?v=DlME0zz3pW0",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Globalização e Sociedade",
+        "subject": "Sociologia",
+        "url": "https://www.youtube.com/watch?v=5LM03AZxaQw",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Trabalho e Relações Sociais",
+        "subject": "Sociologia",
+        "url": "https://www.youtube.com/watch?v=LQPffshbEvE",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Família e Sociedade",
+        "subject": "Sociologia",
+        "url": "https://www.youtube.com/watch?v=3y7JTG9_JvY",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Preconceito e Discriminação",
+        "subject": "Sociologia",
+        "url": "https://www.youtube.com/watch?v=PWvwlVlSZgM",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Educação e Sociedade",
+        "subject": "Sociologia",
+        "url": "https://www.youtube.com/watch?v=LQPffshbEvE",
+        "area": "Ciências Humanas"
+    },
+    {
+        "topic": "Interpretação de Texto",
+        "subject": "Português",
+        "url": "https://www.youtube.com/watch?v=OxTNN-IKcEQ",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Figuras de Linguagem",
+        "subject": "Português",
+        "url": "https://www.youtube.com/watch?v=xfjSzZf6JA4",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Funções da Linguagem",
+        "subject": "Português",
+        "url": "https://www.youtube.com/watch?v=5JrCUWnqHBk",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Gêneros Textuais",
+        "subject": "Português",
+        "url": "https://www.youtube.com/watch?v=CChmOEkhRDY",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Variação Linguística",
+        "subject": "Português",
+        "url": "https://www.youtube.com/watch?v=6fBOVygtNoU",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Coesão e Coerência",
+        "subject": "Português",
+        "url": "https://www.youtube.com/watch?v=IIU6i3UXyi0",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Ortografia e Acentuação",
+        "subject": "Português",
+        "url": "https://www.youtube.com/watch?v=Sy_LUnePfRE",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Sintaxe",
+        "subject": "Português",
+        "url": "https://www.youtube.com/watch?v=ZR_Ou01WsK0",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Semântica",
+        "subject": "Português",
+        "url": "https://www.youtube.com/watch?v=dfkvdIGqZvs",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Literatura Brasileira",
+        "subject": "Português",
+        "url": "https://www.youtube.com/watch?v=jq3LBXYLZWY",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Leitura e Interpretação de Texto",
+        "subject": "Inglês",
+        "url": "https://www.youtube.com/watch?v=C-Mc6SlvrfM",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Falsos Cognatos",
+        "subject": "Inglês",
+        "url": "https://www.youtube.com/watch?v=Tz5WW3xPzqY",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Expressões Idiomáticas",
+        "subject": "Inglês",
+        "url": "https://www.youtube.com/watch?v=eOS8tjOqlE8",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Tempos Verbais",
+        "subject": "Inglês",
+        "url": "https://www.youtube.com/watch?v=8ts9u6sxwrU",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Pronomes e Verbos",
+        "subject": "Inglês",
+        "url": "https://www.youtube.com/watch?v=W0PSvGUDqDI",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Vocabulário Contextual",
+        "subject": "Inglês",
+        "url": "https://www.youtube.com/watch?v=C-Mc6SlvrfM",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Conjunções e Conectores",
+        "subject": "Inglês",
+        "url": "https://www.youtube.com/watch?v=jVp3rPoubQw",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Modais Verbais",
+        "subject": "Inglês",
+        "url": "https://www.youtube.com/watch?v=W0PSvGUDqDI",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Gêneros Textuais em Inglês",
+        "subject": "Inglês",
+        "url": "https://www.youtube.com/watch?v=C-Mc6SlvrfM",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Interpretação de Charges e Anúncios",
+        "subject": "Inglês",
+        "url": "https://www.youtube.com/watch?v=0Rxrvt34Rm8",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Leitura e Interpretação de Texto",
+        "subject": "Espanhol",
+        "url": "https://www.youtube.com/watch?v=sxzZphiJkug",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Falsos Cognatos",
+        "subject": "Espanhol",
+        "url": "https://www.youtube.com/watch?v=kgLfmFz2n0s",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Expressões Idiomáticas",
+        "subject": "Espanhol",
+        "url": "https://www.youtube.com/watch?v=7nVblq0Iv2s",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Tempos Verbais",
+        "subject": "Espanhol",
+        "url": "https://www.youtube.com/watch?v=o8P_7lDT9mY",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Pronomes e Verbos",
+        "subject": "Espanhol",
+        "url": "https://www.youtube.com/watch?v=PqjBOCvbHB8",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Vocabulário Contextual",
+        "subject": "Espanhol",
+        "url": "https://www.youtube.com/watch?v=KVjC6LdDW2w",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Conjunções e Conectores",
+        "subject": "Espanhol",
+        "url": "https://www.youtube.com/watch?v=JsFnp5k0OnU",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Modais Verbais",
+        "subject": "Espanhol",
+        "url": "https://www.youtube.com/watch?v=sxzZphiJkug",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Gêneros Textuais em Espanhol",
+        "subject": "Espanhol",
+        "url": "https://www.youtube.com/watch?v=sxzZphiJkug",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Interpretação de Charges e Anúncios",
+        "subject": "Espanhol",
+        "url": "https://www.youtube.com/watch?v=sxzZphiJkug",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Movimentos Artísticos",
+        "subject": "Artes",
+        "url": "https://www.youtube.com/watch?v=U1xRLJIRRnM",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Arte Moderna Brasileira",
+        "subject": "Artes",
+        "url": "https://www.youtube.com/watch?v=WSoTmWM-wTk",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Patrimônio Cultural",
+        "subject": "Artes",
+        "url": "https://www.youtube.com/watch?v=_bjGPdzbNHQ",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Artes Visuais",
+        "subject": "Artes",
+        "url": "https://www.youtube.com/watch?v=o8tsfbmcZAU",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Arte Contemporânea",
+        "subject": "Artes",
+        "url": "https://www.youtube.com/watch?v=EH0x6Yw410g",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "História da Arte",
+        "subject": "Artes",
+        "url": "https://www.youtube.com/watch?v=ZoWRBhWZ1As",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Música Popular Brasileira",
+        "subject": "Artes",
+        "url": "https://www.youtube.com/watch?v=my-t5QmxDBU",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Cinema Brasileiro",
+        "subject": "Artes",
+        "url": "https://www.youtube.com/watch?v=p7SAtC3l2WI",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Arte Urbana",
+        "subject": "Artes",
+        "url": "https://www.youtube.com/watch?v=EH0x6Yw410g",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Relação Arte e Sociedade",
+        "subject": "Artes",
+        "url": "https://www.youtube.com/watch?v=EH0x6Yw410g",
+        "area": "Linguagens"
+    },
+    {
+        "topic": "Estrutura da Redação Dissertativa-Argumentativa",
+        "subject": "Redação",
+        "url": "https://www.youtube.com/watch?v=CjUCTZstyK8",
+        "area": "Redação"
+    },
+    {
+        "topic": "Introdução, Desenvolvimento e Conclusão",
+        "subject": "Redação",
+        "url": "https://www.youtube.com/watch?v=WfP2bl5xb5E",
+        "area": "Redação"
+    },
+    {
+        "topic": "Competências Avaliativas do ENEM",
+        "subject": "Redação",
+        "url": "https://www.youtube.com/watch?v=AMbFB_cFYek",
+        "area": "Redação"
+    },
+    {
+        "topic": "Proposta de Intervenção",
+        "subject": "Redação",
+        "url": "https://www.youtube.com/watch?v=zU0sC6SeJz8",
+        "area": "Redação"
+    },
+    {
+        "topic": "Coesão e Coerência Textual",
+        "subject": "Redação",
+        "url": "https://www.youtube.com/watch?v=mTpoEtaeb8o",
+        "area": "Redação"
+    },
+    {
+        "topic": "Argumentação e Repertório Sociocultural",
+        "subject": "Redação",
+        "url": "https://www.youtube.com/watch?v=IGmZHrihXN8",
+        "area": "Redação"
+    },
+    {
+        "topic": "Análise de Temas Sociais",
+        "subject": "Redação",
+        "url": "https://www.youtube.com/watch?v=Vt9529R5DiI",
+        "area": "Redação"
+    },
+    {
+        "topic": "Intertextualidade",
+        "subject": "Redação",
+        "url": "https://www.youtube.com/watch?v=WUHfO8zx2bI",
+        "area": "Redação"
+    },
+    {
+        "topic": "Estratégias de Conclusão",
+        "subject": "Redação",
+        "url": "https://www.youtube.com/watch?v=ahqhxiIRkhA",
+        "area": "Redação"
+    },
+    {
+        "topic": "Análise de Redações Nota 1000",
+        "subject": "Redação",
+        "url": "https://www.youtube.com/watch?v=UCF7KPhGylI",
+        "area": "Redação"
+    }
+]

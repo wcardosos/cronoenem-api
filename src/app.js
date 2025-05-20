@@ -1,8 +1,7 @@
 const express = require('express');
-const puppeteer = require('puppeteer');
 const cors = require('cors');
-const fs = require('fs');
-const tailwindCss = fs.readFileSync('./src/assets/tailwind.minify.css', 'utf-8');
+const { generateSchedule, generateSchedulePdf } = require('./services/schedule');
+const enemContent = require('./data/enem-content.json');
 
 const app = express();
 
@@ -15,7 +14,16 @@ app.use(cors({
 app.get('/', (request, response) => {
   return response.send('Welcome to cronoenem API');
 })
-app.post('/pdf', async (request, response) => {
+
+app.post('/schedules', async (request, response) => {
+  const answers = request.body;
+
+  const schedule = generateSchedule(answers, enemContent);
+
+  return response.json(schedule);
+});
+
+app.post('/schedules/pdf', async (request, response) => {
   const { htmlContent } = request.body;
 
   if (!htmlContent) {
@@ -23,47 +31,7 @@ app.post('/pdf', async (request, response) => {
   }
 
   try {
-    const browser = await puppeteer.launch({
-      headless: 'new',
-      args: ['--no-sandbox', '--disable-setuid-sandbox'],
-    })
-
-    const html = `
-      <!DOCTYPE html>
-      <html>
-        <head>
-          <meta charset="utf-8" />
-          <title>Relatório</title>
-          <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
-          <link rel="preconnect" href="https://fonts.googleapis.com">
-          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-          <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-
-          <style>
-            @media print {
-              thead { display: table-row-group; }
-            }
-
-            ${tailwindCss}
-          </style>
-        </head>
-        <body class="p-8 bg-emerald-50">
-          ${htmlContent}
-        </body>
-      </html>
-    `
-
-    const page = await browser.newPage()
-    await page.setContent(html, {
-      waitUntil: 'networkidle0',
-    })
-
-    const pdfBuffer = await page.pdf({
-      format: 'A4',
-      printBackground: true,
-    })
-
-    await browser.close()
+    const pdfBuffer = await generateSchedulePdf(htmlContent);
 
     response.set({
       'Content-Type': 'application/pdf',
