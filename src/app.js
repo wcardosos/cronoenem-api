@@ -10,12 +10,21 @@ app.use(cors({
   origin: '*'
 }));
 
-// TODO: adicionar autorização
+const API_KEY = process.env.API_KEY;
+
+function checkApiKey(req, res, next) {
+  const apiKey = req.header('x-api-key');
+  if (!apiKey || apiKey !== API_KEY) {
+    return res.status(401).json({ error: 'Unauthorized' });
+  }
+  next();
+}
+
 app.get('/', (request, response) => {
   return response.send('Welcome to cronoenem API');
 })
 
-app.post('/schedules', async (request, response) => {
+app.post('/schedules', checkApiKey, async (request, response) => {
   const answers = request.body;
 
   const schedule = generateSchedule(answers, enemContent);
@@ -23,7 +32,7 @@ app.post('/schedules', async (request, response) => {
   return response.json(schedule);
 });
 
-app.post('/schedules/pdf', async (request, response) => {
+app.post('/schedules/pdf', checkApiKey, async (request, response) => {
   const { htmlContent } = request.body;
 
   if (!htmlContent) {
