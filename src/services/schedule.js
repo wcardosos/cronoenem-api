@@ -1,9 +1,12 @@
 const fs = require('fs');
 const path = require('path');
-const puppeteer = require('puppeteer');
+const axios = require('axios');
+const FormData = require('form-data')
 const tailwindCssPath = path.resolve(__dirname, '../assets/tailwind.minify.css');
 const tailwindCss = fs.readFileSync(tailwindCssPath, 'utf-8');
 const { getWeeksUntilEnem } = require('../lib/enem');
+
+const PDF_API_URL = process.env.PDF_API_URL;
 
 module.exports = {
   generateSchedule: (answers, content) => {
@@ -87,11 +90,6 @@ module.exports = {
   },
 
   generateSchedulePdf: async (scheduleHtmlContent) => {
-    const browser = await puppeteer.launch({
-      executablePath: puppeteer.executablePath(),
-      args: ['--no-sandbox', '--disable-setuid-sandbox'],
-    })
-
     const html = `
       <!DOCTYPE html>
       <html>
@@ -117,18 +115,21 @@ module.exports = {
       </html>
     `
 
-    const page = await browser.newPage()
-    await page.setContent(html, {
-      waitUntil: 'networkidle0',
+    const form = new FormData()
+    form.append('files', Buffer.from(html), {
+      filename: 'index.html',
+      contentType: 'text/html',
     })
 
-    const pdfBuffer = await page.pdf({
-      format: 'A4',
-      printBackground: true,
-    })
+    const response = await axios.post(
+      `${PDF_API_URL}/forms/chromium/convert/html`,
+      form,
+      {
+        headers: form.getHeaders(),
+        responseType: 'arraybuffer', // PDF será um buffer
+      }
+    )
 
-    await browser.close()
-
-    return pdfBuffer;
+    return response.data 
   }
 }
