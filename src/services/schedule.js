@@ -5,6 +5,7 @@ const FormData = require('form-data')
 const tailwindCssPath = path.resolve(__dirname, '../assets/tailwind.minify.css');
 const tailwindCss = fs.readFileSync(tailwindCssPath, 'utf-8');
 const { getWeeksUntilEnem } = require('../lib/enem');
+const { saveInGoogleSheets } = require('../lib/google-sheets');
 
 const PDF_API_URL = process.env.PDF_API_URL;
 
@@ -131,5 +132,11 @@ module.exports = {
     )
 
     return response.data 
-  }
+  },
+  saveAnswersMetadata: async (answers) => {
+    await saveInGoogleSheets({
+      ...answers,
+      harderSubjects: answers.harderSubjects.join(', '),
+    }, 'A1:D1');
+  },
 }

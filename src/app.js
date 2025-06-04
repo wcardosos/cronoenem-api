@@ -1,6 +1,6 @@
 const express = require('express');
 const cors = require('cors');
-const { generateSchedule, generateSchedulePdf } = require('./services/schedule');
+const { generateSchedule, generateSchedulePdf, saveAnswersMetadata } = require('./services/schedule');
 const enemContent = require('./data/enem-content.json');
 
 const app = express();
@@ -28,6 +28,8 @@ app.post('/schedules', checkApiKey, async (request, response) => {
   const answers = request.body;
 
   const schedule = generateSchedule(answers, enemContent);
+
+  await saveAnswersMetadata(answers);
 
   return response.json(schedule);
 });
